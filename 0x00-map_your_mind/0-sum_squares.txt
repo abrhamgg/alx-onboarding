@@ -1,0 +1,8 @@
+step1. Read input n1, n2, n3, ..... 
+step2. for number n
+	sum = sum + n^2
+step3. Ask if there is anymore number
+	if true
+	    go to step 2
+	else
+	    print sum

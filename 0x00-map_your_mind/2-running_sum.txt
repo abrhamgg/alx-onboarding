@@ -1,0 +1,9 @@
+1. let a = 2
+2. let sum = 2
+3. while a > 1
+	enter a number
+	if number is > 0
+	    total = sum + number
+	else
+	    a = 0
+4. print total
