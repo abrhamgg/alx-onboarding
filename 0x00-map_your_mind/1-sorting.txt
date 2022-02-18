@@ -1,0 +1,11 @@
+1. read numbers n1 n2 n3
+2. while n1 < n2 < n3 is false
+3.   if n2 < n1
+	put n2 at second place
+     else
+	put n1 at first place
+4.   if n3 < n2
+	put n3 at second place
+     else 
+	put n2 at second place
+5. print numbers
